@@ -43,6 +43,10 @@ React.js dipilih karena memudahkan pembangunan aplikasi yang dapat dibagi menjad
 - Data aktivitas yang bisa diubah hanya atribut status
 - Tidak ada registrasi akun
 
+## AI Usage
+
+Bantuan AI digunakan dalam membangun aplikasi ini dengan persentase 20%. AI digunakan dalam penyempurnaan struktur proyek, fungsi autentikasi, autocomplete, dan penulisan dokumentasi pada README.
+
 ## Notes
 
 BE: https://github.com/zulfiqarshafar/visit-flow-be
